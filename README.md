@@ -1,4 +1,6 @@
 # Faqapp
+Simple Angular 4 app using bootstrap to demonstrate FAQ page. 
+User can insert/update/read/delete question and answer.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.5.
 
